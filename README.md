@@ -1,3 +1,3 @@
 # test-github-jira
 
-test deploys 1
+test deploys 12
