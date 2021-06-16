@@ -1,3 +1,3 @@
 # test-github-jira
 
-test typescript
+test typescript 4
