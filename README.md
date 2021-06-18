@@ -1,3 +1,3 @@
 # test-github-jira
 
-test deny 1
+test in progress icon
