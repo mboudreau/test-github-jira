@@ -1,3 +1,3 @@
 # test-github-jira
 
-test without perms friday
+test with perms changes, not reviewed friday
