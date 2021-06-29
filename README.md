@@ -1,3 +1,3 @@
 # test-github-jira
 
-test no write perms
+test no project.upsert
