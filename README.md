@@ -1,3 +1,3 @@
 # test-github-jira
 
-test new mapping
+test new mapping2
