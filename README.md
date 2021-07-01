@@ -1,3 +1,3 @@
 # test-github-jira
 
-test stg 1
+test locally no wf perm
