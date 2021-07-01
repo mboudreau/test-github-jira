@@ -1,3 +1,3 @@
 # test-github-jira
 
-test no project.upsert
+test from new jira
