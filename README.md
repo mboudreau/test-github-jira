@@ -1,3 +1,3 @@
 # test-github-jira
 
-test actions r&w
+test stg 1
