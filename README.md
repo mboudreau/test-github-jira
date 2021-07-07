@@ -1,6 +1,3 @@
 # test-github-jira
 
-test main 403fffewfwefwe
-dsacdsc
-fasfas
-dasdasd
+test main 403
