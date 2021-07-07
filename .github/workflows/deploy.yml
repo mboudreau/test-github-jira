@@ -73,5 +73,5 @@ jobs:
         with:
           token: "${{ github.token }}"
           target_url: http://my-cool-app.com
-          state: "inactive"
+          state: "pending"
           deployment_id: ${{ steps.deployment_new_env.outputs.deployment_id }}
