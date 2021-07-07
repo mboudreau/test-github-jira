@@ -52,3 +52,26 @@ jobs:
           target_url: http://my-cool-app.com
           state: "success"
           deployment_id: ${{ steps.deployment_prod.outputs.deployment_id }}
+  deploy-to-new-env:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-18.04
+    name: Deploy to New Env
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: chrnorm/deployment-action@releases/v1
+        name: Create new env deployment
+        id: deployment_new_env
+        with:
+          token: "${{ github.token }}"
+          target_url: http://my-cool-app.com
+          environment: newenv
+      - name: Running new env deployment
+        run: |
+          echo Deploying to new env...
+      - uses: chrnorm/deployment-status@releases/v1
+        name: Update new env deployment
+        with:
+          token: "${{ github.token }}"
+          target_url: http://my-cool-app.com
+          state: "success"
+          deployment_id: ${{ steps.deployment_new env.outputs.deployment_id }}
