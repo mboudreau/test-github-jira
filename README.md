@@ -1,6 +1,3 @@
 # test-github-jira
 
-test main 403
-sdfasfas
-gsdgsd
-fasfad
+test thursday
