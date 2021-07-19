@@ -1,4 +1,3 @@
 # test-github-jira
 
-perms accepted
-another one
+testing stg with pr
