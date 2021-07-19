@@ -1,3 +1,3 @@
 # test-github-jira
 
-no cicd
+perms are there but not accepted
