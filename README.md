@@ -1,5 +1,3 @@
 # test-github-jira
 
-prod w pr
-testing fail then pass
-again
+again 2 builds
