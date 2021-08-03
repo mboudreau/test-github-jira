@@ -1,5 +1,4 @@
 # test-github-jira
 
 testing cicd ts
-debug 1
-jdvojnafaw
+final tuesday
