@@ -1,4 +1,3 @@
 # test-github-jira
 
-testing pr bug
-locally
+testing micros stg
