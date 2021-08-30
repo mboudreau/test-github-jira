@@ -1,5 +1,3 @@
 # test-github-jira
 
-testing micros stg
-
-fdafadfsadfpr bug
+testing pr bug
