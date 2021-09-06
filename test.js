@@ -1,2 +1,7 @@
-const StringLiteral = createToken( { name: 'StringLiteral', pattern: /"(:?[^\\"\n\r]+|\\(:?[bfnrtv"\\/]|u[0-9a-fA-F]{4}))*"/
-console.log('test');
+// Server
+var http = require('http');
+
+http.createServer(function (req, res) {
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end(req.url);
+}).listen(1337);
