@@ -1,6 +1,6 @@
 # test-github-jira
 
 testing arc-702
-first commit TSN-36
-second TSN-37
-last TSN-38
+first commit TSN-39
+second TSN-40
+last tsn-41
