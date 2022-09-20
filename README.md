@@ -1,4 +1,3 @@
 # test-github-jira
 
-test reviewers
-2
+testing user scopes
