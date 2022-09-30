@@ -1,3 +1,4 @@
 # test-github-jira
 
-testing user scopes
+testing reviewers
+gogo
